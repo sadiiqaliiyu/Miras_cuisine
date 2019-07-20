@@ -9,13 +9,13 @@ body {
 
 }
 
-#nav, #feature, #footer {
+nav, footer {
     background-color: #efefef;
     padding: 10px;
     margin: 10px;
 }
 
-.column1, .column2, .column3 {
+article{
     background-color: #efefef;
     width: 300px;
     float: left;
